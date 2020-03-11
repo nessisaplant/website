@@ -34,7 +34,7 @@ body, html {
       <a href="#about" class="w3-button w3-block w3-black">ALGORITHMS & DRUGS</a>
     </div>
     <div class="w3-col s3">
-      <a href="#menu" class="w3-button w3-block w3-black">MORE MEDICINAL APPLICATIONS</a>
+      <a href="#menu" class="w3-button w3-block w3-black">ADDITIONAL APPLICATIONS</a>
     </div>
   </div>
 </div>
