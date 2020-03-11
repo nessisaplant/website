@@ -31,10 +31,10 @@ body, html {
       <a href="#" class="w3-button w3-block w3-black">WHAT IS AN ALGORITHM?</a>
     </div>
     <div class="w3-col s3">
-      <a href="#about" class="w3-button w3-block w3-black">ALGORITHMS & DRUG INTERACTIONS</a>
+      <a href="#about" class="w3-button w3-block w3-black">ALGORITHMS & DRUGS</a>
     </div>
     <div class="w3-col s3">
-      <a href="#menu" class="w3-button w3-block w3-black">ALGORITHMS: MORE APPLICATIONS IN MEDICINE</a>
+      <a href="#menu" class="w3-button w3-block w3-black">MORE MEDICINAL APPLICATIONS</a>
     </div>
   </div>
 </div>
